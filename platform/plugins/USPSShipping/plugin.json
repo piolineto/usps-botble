@@ -1,0 +1,13 @@
+{
+  "name": "USPSShipping",
+  "alias": "usps-shipping",
+  "description": "USPS Shipping Plugin for Botble CMS to calculate rates, generate labels, and track shipments.",
+  "author": "Your Company Name",
+  "version": "1.0.0",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Botble\\USPSShipping\\": "src/"
+    }
+  }
+}
